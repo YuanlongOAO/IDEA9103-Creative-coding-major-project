@@ -29,7 +29,6 @@ function setup() {
 
   /*
   Divide the original image into segments, we are going to use nested loops
-  let's have a look at how nested loops work
   first we use a loop to move down the image, 
   we will use the height of the image as the limit of the loop
   then we use a loop to move across the image, 
